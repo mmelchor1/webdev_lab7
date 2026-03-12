@@ -49,3 +49,17 @@ th {
 tr:nth-child(even) {
     background-color: #1a2f4d;
 }
+
+tr:hover {
+    background-color: #2a4c7d;
+    transition: background-color 0.3s ease;
+}
+
+
+#planets img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%; /* makes planets round */
+    border: 2px solid #ffffff;
+    transition: transform 0.3s ease;
+}
