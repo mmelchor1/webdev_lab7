@@ -38,3 +38,14 @@ th {
     font-weight: bold;
     font-size: 18px;
 }
+
+.row-title {
+    font-weight: bold;
+    text-align: left;
+    background-color: #183153;
+}
+
+
+tr:nth-child(even) {
+    background-color: #1a2f4d;
+}
