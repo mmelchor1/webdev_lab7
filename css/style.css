@@ -63,3 +63,21 @@ tr:hover {
     border: 2px solid #ffffff;
     transition: transform 0.3s ease;
 }
+#planets img:hover {
+    transform: scale(1.1);
+}
+
+footer {
+    margin-top: 30px;
+    font-style: italic;
+    color: #a9b9d6;
+    font-size: 14px;
+}
+
+#planets td {
+    font-size: 16px;
+}
+
+#planets th {
+    letter-spacing: 1px;
+}
